@@ -30,11 +30,7 @@ It provides an online presence for an educational brand showcasing courses, serv
 - **CSS3** – For styling and layout  
 - **JavaScript (Vanilla)** – For interactivity and UI behavior
 
----
 
-## 📸 Screenshots
-
-_Add screenshots of your homepage and other pages here (optional)_
 
 ---
 
